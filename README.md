@@ -1,4 +1,4 @@
-# Network-Intrusion-Detection-System-NIDS-Using-Snort
+# Network-Intrusion-Detection-System-Using-Snort
 Using Snort to detect and prevent network-based attacks in real-time
 
 Abstract. This project focuses on implementing a Network Intrusion Detection System (NIDS) using Snort to detect and prevent network-based attacks. The primary goal was to detect and prevent network-based attacks in real time. The system was tested in a virtual environment using Kali Linux as the attacking machine and Ubuntu as the monitored system. Through various attack simulations, Snort successfully detected malicious activities in real-time. This project highlights Snort’s effectiveness in providing real-time intrusion detection and the importance of adapting rules to specific network services for protection.
