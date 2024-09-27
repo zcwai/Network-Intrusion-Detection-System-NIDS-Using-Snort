@@ -5,8 +5,10 @@ Abstract. This project focuses on implementing a Network Intrusion Detection Sys
 
 # Objectives:
 
-Setup Snort on an Ubuntu machine and configure it to monitor a designated network.
+Setup Snort on an Ubuntu machine and configure it to monitor a designated network
+
 Simulate attacks using information gathering tools Nmap and Legion from Kali Linux
+
 Evaluate the performance and accuracy of Snort in detecting these attacks
 
 # Part I: Setup
